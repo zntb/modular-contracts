@@ -57,3 +57,15 @@ forge install vectorized/solady --no-commit
 ```bash
 forge install thirdweb-dev/modular-contracts --no-commit
 ```
+
+## Thirdweb build
+
+```bash
+npx thirdweb build
+```
+
+## Thirdweb deploy
+
+```bash
+npx thirdweb deploy -k $THIRDWEB_SECRET
+```
