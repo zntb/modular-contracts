@@ -1,4 +1,4 @@
-## Getting Started
+# Getting Started
 
 Create a project using this example:
 
@@ -42,6 +42,18 @@ npm run release
 yarn release
 ```
 
-## Join our Discord!
+## Join our Discord
 
 For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+
+## Install solady
+
+```bash
+forge install vectorized/solady --no-commit
+```
+
+## Install thirdweb modular contracts
+
+```bash
+forge install thirdweb-dev/modular-contracts --no-commit
+```

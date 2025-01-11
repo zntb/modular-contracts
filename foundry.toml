@@ -3,7 +3,8 @@ src = 'src'
 out = 'out'
 libs = ['lib']
 remappings = [
-    '@thirdweb-dev/=node_modules/@thirdweb-dev/',
+    '@solady=lib/solady/src/',
+    '@modular-contracts/=lib/modular-contracts/src/',
 ]
 
 
