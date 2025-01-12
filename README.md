@@ -1,3 +1,5 @@
+Video: https://youtu.be/ZoOk41y4f_k?t=2216
+
 # [testing-js](https://github.com/zntb/testing-js-for-odular-contracts)
 
 ## Getting Started
