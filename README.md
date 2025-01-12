@@ -1,4 +1,6 @@
-# Getting Started
+# [testing-js](https://github.com/zntb/testing-js-for-odular-contracts)
+
+## Getting Started
 
 Create a project using this example:
 
@@ -68,4 +70,10 @@ npx thirdweb build
 
 ```bash
 npx thirdweb deploy -k $THIRDWEB_SECRET
+```
+
+## Publish PriceMintModule Contract
+
+```bash
+npx thirdweb publish -k $THIRDWEB_SECRET
 ```
